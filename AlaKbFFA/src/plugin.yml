@@ -1,0 +1,7 @@
+name: AlaKbFFA
+version: 1.0
+author: Lirobi
+main: fr.lirobi.alakbffa.Main
+commands:
+  kbtp:
+    description: tp au kbffa

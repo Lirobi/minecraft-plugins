@@ -1,0 +1,7 @@
+name: AlaUtil
+version: 1.0
+author: Lirobi
+main: fr.lirobi.alautil.Main
+commands:
+  hub:
+    description: retourner au hub du server

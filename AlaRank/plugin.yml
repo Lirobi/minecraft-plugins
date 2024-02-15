@@ -1,0 +1,10 @@
+name: AlaRank
+version: 1.0
+author: Lirobi
+main: fr.lirobi.alastiarank.Main
+commands:
+  rankadmin:
+    description: rank qqn
+    permission: alarank.rank
+
+    

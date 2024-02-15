@@ -1,0 +1,7 @@
+name: AlaUhcFFA
+version: 1.0
+author: Lirobi
+main: fr.lirobi.alauhcffa.Main
+commands:
+  joinffa:
+    description: rejoint le ffa

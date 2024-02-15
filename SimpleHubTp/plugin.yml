@@ -1,0 +1,10 @@
+name: SimpleHubTp
+version: 1.0
+author: Lirobi
+main: fr.lirobi.simplehubtp.main
+commands:
+  sethub:
+    description: Set the location of the hub where the executor is
+    permission: simplehubtp.sethub
+  hub:
+    description: Teleport the executor to the hub location

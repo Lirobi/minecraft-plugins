@@ -1,0 +1,15 @@
+name: Alastia
+version: 1.0
+author: Lirobi
+main: fr.lirobi.alastia.Main
+commands:
+  hub:
+    description: teleportation au spawn
+  bc:
+    description: commande de broadcast
+    permission: bc.use
+  fly:
+    description: fly admin
+    permission: alastia.fly
+  msg:
+    description: message prive
